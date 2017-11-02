@@ -2557,7 +2557,7 @@ h3{
 }
 .image{
   margin: 10px;
-  flex: 1 1 200px;
+  flex: 1 1 0;
 }
 .text{
   margin: 10px;
