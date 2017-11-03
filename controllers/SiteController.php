@@ -11,6 +11,7 @@ use app\models\ContactForm;
 
 class SiteController extends Controller
 {
+    public $layout = 'shablon-main';
     public function behaviors()
     {
         return [
@@ -85,10 +86,5 @@ class SiteController extends Controller
         return $this->render('contact', [
             'model' => $model,
         ]);
-    }
-
-    public function actionMain()
-    {
-        return $this->render('main');
     }
 }

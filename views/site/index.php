@@ -77,6 +77,18 @@
                     </div>
                     <div class="image"><img src="/images/shop/main1.jpg" alt=""></div>
                 </div>
+
+<!--                sliderbrand-->
+                <div class="bl">
+                    <ul id="flexiselDemo3">
+                        <li><img src="/images/shop/ferz.jpg" /></li>
+                        <li><img src="/images/shop/wag.jpg" /></li>
+                        <li><img src="/images/shop/marhatter.jpg" /></li>
+                        <li><img src="/images/shop/lider.jpg" /></li>
+                    </ul>
+                </div>
+<!--                sliderbrand end-->
+
                 <div class="bl bl__item">
                     <div class="image"><img src="/images/shop/main2.jpg" alt=""></div>
                     <div class="text">
@@ -90,9 +102,40 @@
                         </p>
                     </div>
                 </div>
+                <div class="bl bl__item">
+                    <div class="text">
+                        <a name="about"></a>
+                        <h1>О нас</h1>
+                        <p>Наша компания занимается продажей самых стильных сумок и шапок с 2012 года.</p>
+                        <p>У нас Вы найдете для себя самые последние новинки популярных брендов.</p>
+                        <p>Вы останитесь довольны своим выбором.</p>
+                    </div>
+                    <div class="image"><img src="/images/shop/vitrina.jpg" alt=""></div>
+                </div>
+                <div class="bl bl__item">
+<!--                    <div class="image"><img src="/images/shop/main2.jpg" alt=""></div>-->
+                    <iframe src="https://yandex.ua/map-widget/v1/?um=constructor%3A0a77c1004740c70ad32dbd9b412b029e0695d57221ded750eae71dcbb7b73b14&amp;source=constructor" width="500" height="400" frameborder="0"></iframe>
+                    <div class="text">
+                        <a name="retail"></a>
+                        <h2>Наши контакты:</h2>
+                        <h3>ОФИС</h3>
+                        <p>Телефон:80000000</p>
+                        <p>email: @mail.ru</p>
+                        <h3>АДРЕС ОФИСА:</h3>
+                        <p>г. Самара</p>
+                        <h3>ИНТЕРНЕТ МАГАЗИН:</h3>
+                        <p>Телефон: 8 0000000 (звонок бесплатный)</p>
+                        <p>email:</p>
+                        <h3>ПУНКТ САМОВЫВОЗА:</h3>
+                        <p>г. Самара</p>
+                    </div>
+                </div>
             </div>
+
+
         </div>
     </div>
 
 
 </section>
+

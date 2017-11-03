@@ -25,6 +25,7 @@ class AppAsset extends AssetBundle
         'css/animate.css',
         'css/main.css',
         'css/responsive.css',
+        'css/sliderbrand.css',
     ];
     public $js = [
 //        'js/jquery.js',
@@ -34,7 +35,10 @@ class AppAsset extends AssetBundle
         'js/jquery.prettyPhoto.js',
         'js/jquery.cookie.js',
         'js/jquery.accordion.js',
+        'js/sliderbottom.js',
         'js/main.js',
+        'js/menu.js',
+
     ];
     public $depends = [
         'yii\web\YiiAsset',
